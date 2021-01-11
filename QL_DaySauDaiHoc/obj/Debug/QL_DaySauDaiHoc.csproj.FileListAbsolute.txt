@@ -1,0 +1,153 @@
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe.config
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csprojResolveAssemblyReference.cache
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmCanBo.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmChonHK.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDangNhap.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDoiMatKhau.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDonVi.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmGiangDay.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMonHoc.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmTruong.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.Properties.Resources.resources
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csproj.GenerateResource.Cache
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.pdb
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.exe
+E:\b1606860\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.pdb
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe.config
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.exe
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.pdb
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.pdb
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csprojResolveAssemblyReference.cache
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmCanBo.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmChonHK.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDangNhap.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDoiMatKhau.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDonVi.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmGiangDay.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMonHoc.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmTruong.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.Properties.Resources.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csproj.GenerateResource.Cache
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\aa\QL_DaySauDaiHoc.resources.dll
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.aa.resources
+D:\DOTNET\Vinh\QL_DaySauDaiHoc (2)\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\aa\QL_DaySauDaiHoc.resources.dll
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe.config
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.exe
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.pdb
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.pdb
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\aa\QL_DaySauDaiHoc.resources.dll
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csprojResolveAssemblyReference.cache
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmCanBo.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmChonHK.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDangNhap.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDoiMatKhau.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDonVi.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmGiangDay.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMonHoc.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmTruong.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.Properties.Resources.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.aa.resources
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csproj.GenerateResource.Cache
+E:\b1606860\TN207 last ver\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\aa\QL_DaySauDaiHoc.resources.dll
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe.config
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.exe
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.pdb
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.pdb
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\aa\QL_DaySauDaiHoc.resources.dll
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csprojResolveAssemblyReference.cache
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmCanBo.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmChonHK.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDangNhap.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDoiMatKhau.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDonVi.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmGiangDay.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMonHoc.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmTruong.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.Properties.Resources.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.aa.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csproj.GenerateResource.Cache
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\aa\QL_DaySauDaiHoc.resources.dll
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptCanBo.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptMonHoc.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptDonVi.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptGiangDay.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe.config
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.exe
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.pdb
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.pdb
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\aa\QL_DaySauDaiHoc.resources.dll
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csprojResolveAssemblyReference.cache
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmCanBo.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmChonHK.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDangNhap.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDoiMatKhau.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDonVi.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmGiangDay.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMonHoc.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptCanBo.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptDonVi.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptGiangDay.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptMonHoc.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmTruong.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.Properties.Resources.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.aa.resources
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csproj.GenerateResource.Cache
+C:\Users\kienb\Downloads\cuối 2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\aa\QL_DaySauDaiHoc.resources.dll
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe.config
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.exe
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.pdb
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.pdb
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\aa\QL_DaySauDaiHoc.resources.dll
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csprojResolveAssemblyReference.cache
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmCanBo.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmChonHK.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDangNhap.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDoiMatKhau.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDonVi.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmGiangDay.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMonHoc.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptCanBo.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptDonVi.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptGiangDay.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptMonHoc.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmTruong.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.Properties.Resources.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.aa.resources
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csproj.GenerateResource.Cache
+C:\Users\kienb\Downloads\cuối 2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\aa\QL_DaySauDaiHoc.resources.dll
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe.config
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.exe
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.pdb
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.exe
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\QL_DaySauDaiHoc.pdb
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\bin\Debug\aa\QL_DaySauDaiHoc.resources.dll
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csprojResolveAssemblyReference.cache
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmCanBo.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmChonHK.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDangNhap.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDoiMatKhau.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmDonVi.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmGiangDay.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMonHoc.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptCanBo.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptDonVi.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptGiangDay.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmRptMonHoc.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmTruong.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.Properties.Resources.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.frmMain.aa.resources
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\QL_DaySauDaiHoc.csproj.GenerateResource.Cache
+E:\b1606860\TN207_LT NET\CHUDE3_NHOM2\CHUDE3_NHOM2\QL_DaySauDaiHoc\QL_DaySauDaiHoc\obj\Debug\aa\QL_DaySauDaiHoc.resources.dll
